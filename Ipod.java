@@ -1,10 +1,8 @@
-/* Name: Kristen Balisi   341426344
- * Date: 25/04/2023
- * Program Name: Ipod Music Player
+/* Program Name: Ipod Music Player
  * Program Description: This Ipod music player application allows users 
  * to play songs using the play, pause, next, and previous buttons. The screen 
  * displays song information, including title, artist name, and album cover. 
- * Additionally, the program features an ‘add’ button for users to select and save 
+ * Additionally, the program features an â€˜addâ€™ button for users to select and save 
  * a new song to their playlist by clicking a song entry from a table. The selected 
  * song will be placed after the currently playing song in their playlist. The 'delete' 
  * button removes the song currently displayed on the screen from the user's playlist.
