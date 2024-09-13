@@ -1,5 +1,5 @@
-/* Program Name: Ipod Music Player
- * Program Description: This Ipod music player application allows users 
+/* Name: Ipod Music Player
+ * Description: This Ipod music player application allows users 
  * to play songs using the play, pause, next, and previous buttons. The screen 
  * displays song information, including title, artist name, and album cover. 
  * Additionally, the program features an ‘add’ button for users to select and save 
